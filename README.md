@@ -1,4 +1,4 @@
-# ModiFace ChefBot
+# ModiFace ChatBot
 
 A cooking assistant chatbot built with FastAPI, React, Docker Compose, and Ollama.
 
